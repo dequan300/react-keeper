@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    background-color: gray;
+}
+
+.note {
+    background-color: white;
+    width: 20%;
+    height: 40px;
+    border-radius: 2px;
+    border: 1px solid black;
+}
+
+h1 {
+    margin: 0;
+}
+
+.top {
+    background-color: #fff3af;
+    color: white;
+    border-radius: 1px;
+}
+
+.low {
+    display: flex;
+    justify-content: center;
+    align-content: space-between;
+    position: relative;
+    top: 420px;
+}
